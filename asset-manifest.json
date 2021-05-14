@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Tut2GreenTech/static/css/main.4a49dc70.chunk.css",
-    "main.js": "/Tut2GreenTech/static/js/main.60b6c233.chunk.js",
-    "main.js.map": "/Tut2GreenTech/static/js/main.60b6c233.chunk.js.map",
+    "main.js": "/Tut2GreenTech/static/js/main.433eeaf7.chunk.js",
+    "main.js.map": "/Tut2GreenTech/static/js/main.433eeaf7.chunk.js.map",
     "runtime-main.js": "/Tut2GreenTech/static/js/runtime-main.19b1f119.js",
     "runtime-main.js.map": "/Tut2GreenTech/static/js/runtime-main.19b1f119.js.map",
     "static/js/2.2895dfbc.chunk.js": "/Tut2GreenTech/static/js/2.2895dfbc.chunk.js",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.19b1f119.js",
     "static/js/2.2895dfbc.chunk.js",
     "static/css/main.4a49dc70.chunk.css",
-    "static/js/main.60b6c233.chunk.js"
+    "static/js/main.433eeaf7.chunk.js"
   ]
 }
