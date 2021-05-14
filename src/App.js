@@ -27,9 +27,9 @@ function App() {
       <Nav />
       <Switch>
         <Route path="/Tut2GreenTech" exact component={Home} />
-        <Route path="/Activity1" component={Activity1} />
-        <Route path="/Activity2" component={Activity2} />
-        <Route path="/Activity3" component={Activity3} />
+        <Route path="/RenewableEnergy" component={Activity1} />
+        <Route path="/SmartFarming" component={Activity2} />
+        <Route path="/AerospaceEngineering" component={Activity3} />
         <Route path="/Services" component={Services} />
       </Switch>
     </Router>

@@ -48,13 +48,13 @@ const Nav = () => {
           </Tooltip>
           </div>
           <Tooltip title="Renewable Energy information">
-            <Button className={classes.rightButton} style={{color:"#ebbb31"}} onClick={ () => handleOnClick('/Activity1')}>Renewable Energy</Button>
+            <Button className={classes.rightButton} style={{color:"#ebbb31"}} onClick={ () => handleOnClick('/RenewableEnergy')}>Renewable Energy</Button>
           </Tooltip>
           <Tooltip title="Smart Farming information">
-            <Button className={classes.rightButton} style={{color:"#89e894"}} onClick={ () => handleOnClick('/Activity2')}>Smart Farming</Button>
+            <Button className={classes.rightButton} style={{color:"#89e894"}} onClick={ () => handleOnClick('/SmartFarming')}>Smart Farming</Button>
           </Tooltip>
           <Tooltip title="Aerospace Engineering information">
-            <Button className={classes.rightButton} style={{color:"#6b87ae"}} onClick={ () => handleOnClick('/Activity3')}>Aerospace Engineering</Button>
+            <Button className={classes.rightButton} style={{color:"#6b87ae"}} onClick={ () => handleOnClick('/AerospaceEngineering')}>Aerospace Engineering</Button>
           </Tooltip>
           <Tooltip title="Additional services">
             <Button className={classes.rightButton} style={{color:"#887579"}} onClick={ () => handleOnClick('/Services')}>Services</Button>

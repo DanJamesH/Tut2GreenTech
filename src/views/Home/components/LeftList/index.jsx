@@ -43,7 +43,7 @@ export default function SimpleAccordion() {
       secondary: "Disrupt the fossil fuel industry",
       src: img1,
       products: ["Solar panels", "Hydro generators", "Wind turbines"],
-      link: '/Activity1',
+      link: '/RenewableEnergy',
       tooltip: "Renewable Energy information",
     },
     {
@@ -52,7 +52,7 @@ export default function SimpleAccordion() {
       secondary: "Grow intelligently to provide for everyone",
       src: img2,
       products: ["Aquaponics", "Autonomous farming equipment", "Drone sprayers"],
-      link: '/Activity2',
+      link: '/SmartFarming',
       tooltip: "Smart Farming information",
     },
     {
@@ -61,7 +61,7 @@ export default function SimpleAccordion() {
       secondary: "Travel faster, further and cleaner",
       src: img3,        
       products: ["Reusable rockets", "Environmental satellites", "Ecofriendly engines"],
-      link: '/Activity3',
+      link: '/AerospaceEngineering',
       tooltip: "Aerospace Manufacturing information",
     },
   ];
