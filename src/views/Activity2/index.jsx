@@ -70,7 +70,7 @@ const Activity2 = () => {
         <Typography
           variant="h5"
           gutterBottom
-          style={{ marginTop: 10, width: "60vw", textAlign: "center" }}
+          style={{ marginTop: 10, marginBottom:50, width: "60vw", textAlign: "center" }}
         >
           <Link
             href="https://medium.com/@emorphis.technologies/what-is-smart-farming-everything-you-want-to-know-about-it-28e0e5d8e142"

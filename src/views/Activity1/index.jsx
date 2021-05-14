@@ -56,10 +56,7 @@ const Activity1 = () => {
           of the country, Cape Town has implemented multiple wind farms, which
           generate significant amounts of energy. Renewable energy systems in
           the long-term are comparable or cost slightly less than non-renewable
-          sources. Biomass is currently the largest renewable energy contributor
-          in South Africa with 9-14% of the total energy mix. Renewable energy
-          systems are costly to implement in the beginning but provide high
-          economic returns in the long-run.
+          sources. 
         </Typography>
         <Typography
           variant="h5"
