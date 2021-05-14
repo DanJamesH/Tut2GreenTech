@@ -1,0 +1,181 @@
+[{
+        "id": 0,
+        "locationId": "uct",
+        "name": "UCT, Western Cape",
+        "status": "OPEN",
+        "address": {
+        	"address": "Rondebosch, Cape Town, 7700",
+            "street": "",
+            "city": "Cape Town",
+            "province": "Western Cape",
+            "zip": "7700",
+            "country": "South Africa",
+            "region": "Africa"
+        },
+        "gps": {
+            "latitude": -33.958476,
+            "longitude": 18.460276
+        },
+        "dateOpened": "2019-12-20"
+},
+{
+        "id": 1,
+        "locationId": "kariega",
+        "name": "Kariega, Eastern Cape",
+        "status": "OPEN",
+        "address": {
+        	"address": "Cape Road Industrial, Kariega",
+            "street": "Cape Road",
+            "city": "Kariega",
+            "province": "Eastern Cape",
+            "zip": "6629",
+            "country": "South Africa",
+            "region": "Africa"
+        },
+        "gps": {
+            "latitude": -33.784220,
+            "longitude": 25.379494
+        },
+        "dateOpened": "2014-06-01"
+},
+{
+        "id": 2,
+        "locationId": "upington",
+        "name": "Upington, Northern Cape",
+        "status": "OPEN",
+        "address": {
+        	"address": "Diedericks Road, Upington, 8801",
+            "street": "Diedericks Road",
+            "city": "Upington",
+            "province": "Northern Cape",
+            "zip": "8801",
+            "country": "South Africa",
+            "region": "Africa"
+        },
+        "gps": {
+            "latitude": -28.432807, 
+            "longitude": 21.252216
+        },
+        "dateOpened": "2007-09-17"
+},
+{
+        "id": 3,
+        "locationId": "mahikeng",
+        "name": "Mahikeng, North West",
+        "status": "OPEN",
+        "address": {
+        	"address": "2696 James Watt Cres, Mahikeng, 2745",
+            "street": "James Watt Cres",
+            "city": "Mahikeng",
+            "province": "North West",
+            "zip": "2745",
+            "country": "South Africa",
+            "region": "Africa"
+        },
+        "gps": {
+            "latitude": -25.839315, 
+            "longitude": 25.631962
+        },
+        "dateOpened": "2015-05-11"
+},
+{
+        "id": 4,
+        "locationId": "clarens",
+        "name": "Clarens, Free State",
+        "status": "OPEN",
+        "address": {
+        	"address": "Van Reenen St, Clarens, 9707",
+            "street": "Van Reenen St",
+            "city": "Clarens",
+            "province": "Free State",
+            "zip": "9707",
+            "country": "South Africa",
+            "region": "Africa"
+        },
+        "gps": {
+            "latitude": -28.520715, 
+            "longitude": 28.421007
+        },
+        "dateOpened": "2012-12-25"
+},
+{
+        "id": 5,
+        "locationId": "stlucia",
+        "name": "St Lucia, Kwazulu-Natal",
+        "status": "OPEN",
+        "address": {
+        	"address": "81 Mckenzie St, St Lucia, 3936",
+            "street": "Van Reenen St",
+            "city": "St Lucia",
+            "province": "Kwazulu-Natal",
+            "zip": "3936",
+            "country": "South Africa",
+            "region": "Africa"
+        },
+        "gps": {
+            "latitude": -28.377506, 
+            "longitude": 32.410752
+        },
+        "dateOpened": "2021-02-14"
+},
+{
+        "id": 6,
+        "locationId": "mbombela",
+        "name": "Mbombela, Mpumalanga",
+        "status": "OPEN",
+        "address": {
+        	"address": "Cnr R40 and D725 Roads, Mbombela, 1200",
+            "street": "Cnr R40 and D725 Roads",
+            "city": "Mbombela",
+            "province": "Mpumalanga",
+            "zip": "1200",
+            "country": "South Africa",
+            "region": "Africa"
+        },
+        "gps": {
+            "latitude": -25.437470,  
+            "longitude": 30.981623
+        },
+        "dateOpened": "1998-09-03"
+},
+{
+        "id": 7,
+        "locationId": "hartbeespoort",
+        "name": "Hartbeespoort, Gauteng",
+        "status": "OPEN",
+        "address": {
+        	"address": "Elias Motsoaledi St, Hartbeespoort, 0216",
+            "street": "Elias Motsoaledi",
+            "city": "Hartbeespoort",
+            "province": "Gauteng",
+            "zip": "0216",
+            "country": "South Africa",
+            "region": "Africa"
+        },
+        "gps": {
+            "latitude": -25.796343788254905, 
+            "longitude": 27.920533686931226
+        },
+        "dateOpened": "1998-01-07"
+},
+{
+        "id": 8,
+        "locationId": "tzaneen",
+        "name": "Tzaneen, Limpopo",
+        "status": "OPEN",
+        "address": {
+        	"address": "Farm Dwarsfontein, 541 Main Road, R36, Politsi, Tzaneen, 0850",
+            "street": "541 Main Road",
+            "city": "Tzaneen",
+            "province": "Limpopo",
+            "zip": "0850",
+            "country": "South Africa",
+            "region": "Africa"
+        },
+        "gps": {
+            "latitude": -23.770564228378717,
+            "longitude": 30.113758576868953
+        },
+        "dateOpened": "2020-02-20"
+}
+]
