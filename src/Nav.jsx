@@ -23,7 +23,6 @@ const useStyles = makeStyles((theme) => ({
     marginRight: theme.spacing(2),
   },
   title: {
-    marginRight:'15vw',
     color:'black'
   },
   rightButton: {
@@ -41,11 +40,13 @@ const Nav = () => {
     <div className={classes.root}>
       <AppBar className={classes.appBar} position="static">
         <Toolbar>
+          <div style={{display: 'flex', flex: 1}}>
           <Tooltip title="Home page">
-            <Typography variant="h5" className={classes.title} onClick={() => handleOnClick('/')}>
+            <Typography variant="h5" className={classes.title} onClick={() => handleOnClick('/Tut2GreenTech')}>
               GreenTech
             </Typography>
           </Tooltip>
+          </div>
           <Tooltip title="Renewable Energy information">
             <Button className={classes.rightButton} style={{color:"#ebbb31"}} onClick={ () => handleOnClick('/Activity1')}>Renewable Energy</Button>
           </Tooltip>

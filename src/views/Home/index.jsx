@@ -83,7 +83,7 @@ const Home = () => {
             style={{ height: "100vh", alignItems: "center" }}
           >
             <div style={{ display: "flex", flex: 1 }}>
-              <img src={plant} width="100%" height={height} />
+              <img src={plant} width="100%" height={height*0.85} />
             </div>
           </Grid>
         </Grid>

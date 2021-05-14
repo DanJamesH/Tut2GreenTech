@@ -25,8 +25,8 @@ import upington from "../../../../images/upington.png";
 const useStyles = makeStyles((theme) => ({
   dialog: {
     position: "absolute",
-    height: "80vh",
-    width: "50vw",
+    height: "60vh",
+    width: "35vw",
     right: "1vw",
     bottom: "5vh",
   },

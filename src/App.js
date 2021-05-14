@@ -22,13 +22,11 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 function App() {
-  const classes = useStyles();
-
   return (
     <Router>
       <Nav />
       <Switch>
-        <Route path="/" exact component={Home} />
+        <Route path="/Tut2GreenTech" exact component={Home} />
         <Route path="/Activity1" component={Activity1} />
         <Route path="/Activity2" component={Activity2} />
         <Route path="/Activity3" component={Activity3} />
