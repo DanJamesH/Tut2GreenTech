@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Tut2GreenTech/static/css/main.6ca9de12.chunk.css",
+    "main.js": "/Tut2GreenTech/static/js/main.fee99bd4.chunk.js",
+    "main.js.map": "/Tut2GreenTech/static/js/main.fee99bd4.chunk.js.map",
+    "runtime-main.js": "/Tut2GreenTech/static/js/runtime-main.19b1f119.js",
+    "runtime-main.js.map": "/Tut2GreenTech/static/js/runtime-main.19b1f119.js.map",
+    "static/js/2.2895dfbc.chunk.js": "/Tut2GreenTech/static/js/2.2895dfbc.chunk.js",
+    "static/js/2.2895dfbc.chunk.js.map": "/Tut2GreenTech/static/js/2.2895dfbc.chunk.js.map",
+    "static/js/3.7df155cc.chunk.js": "/Tut2GreenTech/static/js/3.7df155cc.chunk.js",
+    "static/js/3.7df155cc.chunk.js.map": "/Tut2GreenTech/static/js/3.7df155cc.chunk.js.map",
+    "index.html": "/Tut2GreenTech/index.html",
+    "static/css/main.6ca9de12.chunk.css.map": "/Tut2GreenTech/static/css/main.6ca9de12.chunk.css.map",
+    "static/js/2.2895dfbc.chunk.js.LICENSE.txt": "/Tut2GreenTech/static/js/2.2895dfbc.chunk.js.LICENSE.txt",
+    "static/media/aerospace.f33fda38.jpg": "/Tut2GreenTech/static/media/aerospace.f33fda38.jpg",
+    "static/media/clarens.2e1af2e3.png": "/Tut2GreenTech/static/media/clarens.2e1af2e3.png",
+    "static/media/hartbeespoort.71e75b96.png": "/Tut2GreenTech/static/media/hartbeespoort.71e75b96.png",
+    "static/media/kariega.6568fa85.png": "/Tut2GreenTech/static/media/kariega.6568fa85.png",
+    "static/media/mahikeng.4f4b9b9f.png": "/Tut2GreenTech/static/media/mahikeng.4f4b9b9f.png",
+    "static/media/mbombela.1a09fa0e.png": "/Tut2GreenTech/static/media/mbombela.1a09fa0e.png",
+    "static/media/plant.02065e49.png": "/Tut2GreenTech/static/media/plant.02065e49.png",
+    "static/media/renewable.db434a22.jpg": "/Tut2GreenTech/static/media/renewable.db434a22.jpg",
+    "static/media/smartfarming.b8475a30.jpg": "/Tut2GreenTech/static/media/smartfarming.b8475a30.jpg",
+    "static/media/stlucia.4c089d3f.png": "/Tut2GreenTech/static/media/stlucia.4c089d3f.png",
+    "static/media/tzaneen.1c73362d.png": "/Tut2GreenTech/static/media/tzaneen.1c73362d.png",
+    "static/media/uct.01c3a83a.png": "/Tut2GreenTech/static/media/uct.01c3a83a.png",
+    "static/media/upington.faf7cc36.png": "/Tut2GreenTech/static/media/upington.faf7cc36.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19b1f119.js",
+    "static/js/2.2895dfbc.chunk.js",
+    "static/css/main.6ca9de12.chunk.css",
+    "static/js/main.fee99bd4.chunk.js"
+  ]
+}
